@@ -30,10 +30,10 @@ img:hover {
   opacity: 0.6;
 }
 #left-cat {
-
+float: left;
 }
 #right-cat {
-
+float: right;
 }
 .App-link {
   color: #61dafb;
