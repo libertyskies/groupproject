@@ -1,0 +1,35 @@
+.Gallery {
+    background-color: #7cc6fe;
+    text-align: center;
+    padding: 2%;
+}
+
+.Gallery p {
+    width: 50%;
+    margin: auto;
+}
+
+.Gallery button {
+    width: 100px;
+    border-radius: 10px;
+    border-style: none;
+    margin: 15px;
+    text-align: center;
+}
+
+.Gallery img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    padding: 5%;
+}
+
+.Gallery h2 {
+    padding: 0;
+}
+
+.gallery-btn {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

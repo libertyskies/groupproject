@@ -1,0 +1,27 @@
+[
+    {
+     "id": 1,
+     "question": "Do I need a lot of special equipment for my kitten?",
+     "answer": "You don't need to invest in a lot of expensive equipment for your kitten. The main things you need are kitten food for them to eat, a litter tray and somewhere comfortable for them to sleep. See our checklist page for more information."
+    },
+    {
+     "id": 2,
+     "question": "Should I get a kitten or a fully grown cat?",
+     "answer": "Kittens adapt well to change and cope well with noisy and busy households but can take up a lot of time. They're the best choice in a house with young children. Older cats are calmer but tend to prefer a quieter, adult only environment."
+    },
+    {
+     "id": 3,
+     "question": "Do I need pet insurance?",
+     "answer": "Pet insurance is usually inexpensive for a young cat and will provide peace of mind. Some vetinary pratices also offer membership/subscription services to cover regular expenses such as check-ups, vaccinations and flea and worming treatments."
+    },
+    {
+     "id": 4,
+     "question": "Is a pedigree cat better than a moggy?",
+     "answer": "We love all cats and there are pros and cons to whichever cat you choose. Pedigree breeds tend to have more predictable temperaments but can be more costly to keep. Regular moggies are more varied in personality. You may want to support your local animal shelter by rehoming a rescue kittten. "
+    },
+    {
+     "id": 5,
+     "question": "How do I train my cat?",
+     "answer": "We have heard of kittens being trained but in our experience cats are more successful at training their owners. So, good luck with that one."
+    }
+   ]
